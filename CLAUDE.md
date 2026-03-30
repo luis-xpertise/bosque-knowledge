@@ -17,6 +17,27 @@ A Lapa dos Dinheiros passou por várias reorganizações administrativas:
 - A descrição predial (número permanente)
 - O(s) artigo(s) matricial(is) conhecidos (podem ser vários, de épocas diferentes)
 
+### Cadeia de artigos matriciais
+
+Existem 3 gerações de artigos matriciais:
+
+1. **Lapa dos Dinheiros (extinta)** — artigos originais (ex: 3446)
+2. **União das Freguesias de Seia, São Romão e Lapa dos Dinheiros** — artigos intermédios (ex: 4856)
+3. **Lapa dos Dinheiros (restaurada)** — artigos actuais (ex: 1575)
+
+**Exemplo concreto:** artigo 3446 (extinta) → 4856 (união) → 1575 (restaurada)
+
+**Mapeamentos disponíveis:**
+- Extinta → União: `data/artigos_mapping.json` (2717 correspondências, extraído de `input/IMI NOVOS ARTIGOS conversão.xlsx`)
+- União → Restaurada: **AINDA NÃO DISPONÍVEL** — quando obtido, completar a cadeia
+
+**Estado actual das fichas:**
+- Cada parcela é identificada pela **descrição predial** (ex: 32/19970521) — este número nunca muda
+- Os artigos matriciais nas fichas YAML (`data/parcelas/`) são da **extinta**, extraídos dos registos prediais
+- Através da descrição predial podemos associar os diferentes artigos matriciais (extinta, união, restaurada) ao mesmo terreno
+- Os artigos actuais (restaurada) devem ser obtidos junto das Finanças e registados quando conhecidos
+- Para declarações de venda, usar sempre o artigo actual (restaurada), mencionando a proveniência do artigo da união quando relevante
+
 ## Foco do projeto
 
 Apenas parcelas rústicas e mistas — soutos (castanheiros) próximos da coordenada 40.3829, -7.7029. Não incluir prédios urbanos.
@@ -70,3 +91,9 @@ user-agent: Mozilla/5.0 (...)
 - O NIC tem o formato `AAA000XXXXXX` (ex: `AAA000842173`)
 - É possível fazer crawl recursivo: buscar uma parcela, obter confrontantes, buscar os confrontantes desses, etc.
 - Formato NIC legível com espaços: `AAA 000 842 173` (campo `label`)
+
+## Regras de trabalho
+
+- Fazer commit e push a cada bloco de informação adicionada
+- Declarações de venda: template em `docs/templates/declaracao-venda.tex`, variáveis em `dados.tex` (não versionado)
+- Dados sensíveis (dados.tex com informação pessoal) não vão para o git
