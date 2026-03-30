@@ -1,0 +1,41 @@
+# Template — Ficha de Parcela
+# Copy this file as P-XXXX.yaml for each new parcela
+
+id: P-XXXX
+nome: ""                    # Name or local designation
+freguesia: ""
+concelho: ""
+distrito: ""
+
+# Property identification
+artigo_matricial: ""        # Artigo matricial (Finanças)
+descricao_predial: ""       # Número de descrição (Conservatória)
+seccao_cadastral: ""        # Secção do cadastro geométrico
+numero_cadastral: ""        # Número do prédio no cadastro
+
+# Areas
+area_total_ha: 0.0          # Total area in hectares
+area_cadastro_ha: 0.0       # Area from cadastro público
+
+# Owner
+proprietario_id: ""         # Reference to PROP-XXXX
+
+# Land use
+uso_solo: ""                # Forest, agriculture, mixed, etc.
+especies: []                # Tree species or crops
+
+# Confrontações (N/S/E/W or by neighbour parcels)
+confrontacoes:
+  norte: ""
+  sul: ""
+  este: ""
+  oeste: ""
+
+# Cadastro polygon reference
+cadastro_geojson: ""        # Path to GeoJSON file in data/cadastro/
+
+# Documents
+documentos: []              # List of document references
+
+# Notes
+notas: ""

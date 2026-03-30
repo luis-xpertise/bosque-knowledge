@@ -1,0 +1,22 @@
+id: P-0005
+descricao_predial: "24/19960116"
+natureza: "Rústica"
+denominacao: ""
+situado: "Lapa dos Dinheiros"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 616
+area_ha: 0.0616
+
+artigo_matricial: 2300
+
+composicao: "Terra de batata e uma figueiredo"
+
+confrontacoes:
+  nascente: "José Figueiredo Conde"
+  poente: "Noel Conde Oliveira"
+  norte: "Anunciação Brito Oliveira"
+  sul: "Joaquim Oliveira Simão"
+
+fonte: "data/documentos/registo-predial/IS-0311-32855-091229-000024.pdf"

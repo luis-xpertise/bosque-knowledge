@@ -1,0 +1,22 @@
+id: P-0003
+descricao_predial: "22/19951218"
+natureza: "Rústica"
+denominacao: ""
+situado: "Ponte"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 908
+area_ha: 0.0908
+
+artigo_matricial: 3136
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "Maria Mendes Henriques"
+  nascente: "Joaquim Miranda Simão"
+  sul: "João Bernardino Mendes"
+  poente: "Emídio Mendes Domingos"
+
+fonte: "data/documentos/registo-predial/IS-0311-32839-091229-000022.pdf"

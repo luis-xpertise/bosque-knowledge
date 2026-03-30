@@ -1,0 +1,22 @@
+id: P-0019
+descricao_predial: "38/19970606"
+natureza: "Rústica"
+denominacao: ""
+situado: "Meeiro"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 132
+area_ha: 0.0132
+
+artigo_matricial: 1870
+
+composicao: "Terra de batata"
+
+confrontacoes:
+  norte: "José Mendes Figueiredo"
+  nascente: "José Oliveira Pão Alvo"
+  sul: "José Marques Abrantes"
+  poente: "António Silva Bravo"
+
+fonte: "data/documentos/registo-predial/IS-0311-32979-091229-000038.pdf"

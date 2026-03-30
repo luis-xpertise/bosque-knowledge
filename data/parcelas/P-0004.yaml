@@ -1,0 +1,21 @@
+id: P-0004
+descricao_predial: "23/19960116"
+natureza: "Rústica"
+denominacao: ""
+situado: "Junqueiro"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 2310
+area_ha: 0.231
+
+artigo_matricial: 1997
+
+composicao: "Terra de batata, centeio e cereijeiras"
+
+confrontacoes:
+  nascente: "Joaquim Rodrigues Figueiredo"
+  poente: "António Gonçalves Pereira"
+  sul: "ribeiro"
+
+fonte: "data/documentos/registo-predial/IS-0311-32847-091229-000023.pdf"

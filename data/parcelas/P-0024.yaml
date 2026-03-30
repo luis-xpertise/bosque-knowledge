@@ -1,0 +1,21 @@
+id: P-0024
+descricao_predial: "668/20240809"
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhadas do Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 406
+area_ha: 0.0406
+
+artigo_matricial: 4841
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "António Fernandes Esteves"
+  sul_poente: "J. Pimenta, Lda."
+  nascente: "Manuel Figueiredo Branquinho"
+
+fonte: "data/documentos/registo-predial/IS-0314-37222-091229-000668.pdf"

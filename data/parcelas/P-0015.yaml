@@ -1,0 +1,22 @@
+id: P-0015
+descricao_predial: "34/19970521"
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 740
+area_ha: 0.074
+
+artigo_matricial: 4865
+
+composicao: "Terra de souto de castanheiros bravos e castanheiros"
+
+confrontacoes:
+  norte: "Noel Conde de Oliveira"
+  sul: "Campo da Bola"
+  nascente: "Mário dos Santos Esteves"
+  poente: "António Luis de Oliveira"
+
+fonte: "data/documentos/registo-predial/IS-0311-32944-091229-000034.pdf"

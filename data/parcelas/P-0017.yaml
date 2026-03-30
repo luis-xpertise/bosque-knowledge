@@ -1,0 +1,21 @@
+id: P-0017
+descricao_predial: "36/19970606"
+natureza: "Rústica"
+denominacao: ""
+situado: "Tapadas"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 3600
+area_ha: 0.36
+
+artigo_matricial: 10
+
+composicao: "Terra de centeio"
+
+confrontacoes:
+  norte: "Sebastião Marques Conde"
+  nascente: "Albino Oliveira Metelo"
+  sul_poente: "Albino Oliveira Gouveia"
+
+fonte: "data/documentos/registo-predial/IS-0311-32952-091229-000036.pdf"

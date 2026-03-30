@@ -1,0 +1,22 @@
+id: P-0007
+descricao_predial: "26/19960226"
+natureza: "Misto"
+denominacao: "CHÃO DAS PEDRAS / CHÃO DO FRADE"
+situado: "Lapa dos Dinheiros"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 7363
+area_ha: 0.7363
+
+artigo_matricial: 3122
+
+composicao: "Terra de batata, centeio e pastagem (7353m2), palheira (10m2), casa de arrumações (72m2)"
+
+confrontacoes:
+  norte: "Sebastião Marques Conde e Caminho público"
+  nascente: "Caminho público"
+  sul: "Albino Miranda Lages e passagem particular"
+  poente: "António Conde Matias"
+
+fonte: "data/documentos/registo-predial/IS-0311-32871-091229-000026.pdf"

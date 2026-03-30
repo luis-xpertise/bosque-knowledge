@@ -1,0 +1,24 @@
+id: P-0009
+descricao_predial: "28/19960417"
+natureza: "Rústica"
+denominacao: ""
+situado: "Portelagem"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 824
+area_ha: 0.0824
+
+artigo_matricial: 2450
+
+composicao: "Terra de batata, pastagem e videiras em cordão"
+
+confrontacoes:
+  nascente: "João Oliveira Fernandes"
+  poente: "José Garcia Figueiredo"
+  norte: "Dinis Esteves Abrantes"
+  sul: "Jose Rodrigues da Silva"
+
+fonte: "data/documentos/registo-predial/IS-0311-32898-091229-000028.pdf"
+
+notas: "Servidão de águas do prédio 27/19960417"

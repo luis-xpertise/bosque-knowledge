@@ -1,0 +1,22 @@
+id: P-0010
+descricao_predial: "29/19960514"
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicheiro"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 424
+area_ha: 0.0424
+
+artigo_matricial: 2303
+
+composicao: "Terra de batata"
+
+confrontacoes:
+  norte: "Barroca"
+  nascente: "José Martins Pão Alvo"
+  sul: "José de Oliveira Pão Alvo"
+  poente: "Jose Garcia Figueiredo"
+
+fonte: "data/documentos/registo-predial/IS-0311-32901-091229-000029.pdf"

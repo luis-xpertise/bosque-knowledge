@@ -1,0 +1,21 @@
+id: P-0016
+descricao_predial: "35/19970521"
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicarão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 4260
+area_ha: 0.426
+
+artigo_matricial: 4937
+
+composicao: "Terra de soito de castanheiros bravos, pinhal e pastagem"
+
+confrontacoes:
+  norte: "Rio"
+  sul: "António de Oliveira Fernandes"
+  nascente_poente: "Urbana de Jesus"
+
+fonte: "data/documentos/registo-predial/IS-0142-36079-091229-000035.pdf"

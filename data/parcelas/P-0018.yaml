@@ -1,0 +1,22 @@
+id: P-0018
+descricao_predial: "37/19970606"
+natureza: "Rústica"
+denominacao: ""
+situado: "Tapadas"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 2406
+area_ha: 0.2406
+
+artigo_matricial: 3407
+
+composicao: "Terra de pastagem"
+
+confrontacoes:
+  norte: "Joaquim dos Reis"
+  nascente: "António Garcia Conde"
+  sul: "João Mendes André"
+  poente: "Rita Mendes André"
+
+fonte: "data/documentos/registo-predial/IS-0311-32960-091229-000037.pdf"

@@ -1,0 +1,22 @@
+id: P-0014
+descricao_predial: "33/19970521"
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhadda do Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 6630
+area_ha: 0.663
+
+artigo_matricial: 4847
+
+composicao: "Terra de castanheiros e pastagem"
+
+confrontacoes:
+  norte: "António de Oliveira Fernandes"
+  sul: "Mário dos Santos Esteves"
+  nascente: "Maria Helena Oliveira Mendes"
+  poente: "António de Oliveira Fernandes"
+
+fonte: "data/documentos/registo-predial/IS-0142-36060-091229-000033.pdf"

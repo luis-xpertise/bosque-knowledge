@@ -1,0 +1,22 @@
+id: P-0013
+descricao_predial: "32/19970521"
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada do Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 8702
+area_ha: 0.8702
+
+artigo_matricial: 4829
+
+composicao: "Terra de pinhal, pastagem e castanheiros"
+
+confrontacoes:
+  norte: "ribeira"
+  sul: "Manuel Branquinho"
+  nascente: "António de Oliveira Fernandes"
+  poente: "Eduardo Rodrigues"
+
+fonte: "data/documentos/registo-predial/IS-0311-32936-091229-000032.pdf"

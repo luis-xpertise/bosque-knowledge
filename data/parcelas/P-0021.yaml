@@ -1,0 +1,21 @@
+id: P-0021
+descricao_predial: "40/19980119"
+natureza: "Rústica"
+denominacao: ""
+situado: "Quintais"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 1800
+area_ha: 0.18
+
+artigo_matricial: 2741
+
+composicao: "Terra de batata e cideiras em cordão"
+
+confrontacoes:
+  norte_poente: "Joaquim Nunes Neves"
+  nascente: "Sebastião Marques Conde"
+  sul: "Mário Santos Esteves"
+
+fonte: "data/documentos/registo-predial/IS-0311-32995-091229-000040.pdf"

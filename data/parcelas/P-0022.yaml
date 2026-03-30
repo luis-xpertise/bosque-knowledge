@@ -1,0 +1,20 @@
+id: P-0022
+descricao_predial: "41/19980331"
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhadas"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 125
+area_ha: 0.0125
+
+artigo_matricial: 5346
+
+composicao: "Terra decultura e batata"
+
+confrontacoes:
+  norte_nascente_poente: "caminho Público"
+  sul: "Jose Augusto Figueiredo dos Reis"
+
+fonte: "data/documentos/registo-predial/IS-0311-33002-091229-000041.pdf"

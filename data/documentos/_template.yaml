@@ -1,0 +1,11 @@
+# Template — Referência a Documento
+# Copy this file as DOC-XXXX.yaml
+
+id: DOC-XXXX
+tipo: ""                    # caderneta_predial, registo_predial, escritura, etc.
+descricao: ""
+data: ""                    # YYYY-MM-DD
+parcelas: []                # Parcelas referenciadas (P-XXXX)
+proprietarios: []           # Proprietários referenciados (PROP-XXXX)
+ficheiro: ""                # Path to file if stored externally
+notas: ""

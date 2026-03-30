@@ -1,0 +1,21 @@
+id: P-0023
+descricao_predial: "198/20090420"
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada do Pisão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 287
+area_ha: 0.0287
+
+artigo_matricial: 3435
+
+composicao: "Terra de pinhal"
+
+confrontacoes:
+  norte: "António Oliveira Mónica"
+  sul_nascente: "J. Pimenta, Lda"
+  poente: "António Fernandes de Oliveira"
+
+fonte: "data/documentos/registo-predial/IS-0314-37214-091229-000198.pdf"

@@ -1,0 +1,16 @@
+# Template — Ficha de Proprietário
+# Copy this file as PROP-XXXX.yaml for each new proprietário
+
+id: PROP-XXXX
+nome: ""
+nif: ""                     # Optional — NIF
+morada: ""
+contacto: ""
+
+# Parcels owned
+parcelas: []                # List of P-XXXX ids
+
+# Role in emparcelamento
+papel: ""                   # promotor, aderente, vizinho, etc.
+
+notas: ""
