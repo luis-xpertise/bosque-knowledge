@@ -1,0 +1,37 @@
+id: PESSOA-0001
+nome: "Paulo Jorge da Silva Santos"
+nif: "182702359"
+morada: "Rua 1º. de Dezembro nº.8, 7 Esqº., 2685-097 Sacavém"
+
+empresas:
+  - nipc: "502814586"
+    nome: "RENDAVO, S.A."
+    nome_anterior: "CONSTRUVERCA - Construção e Vendas, Lda"
+    sede: "Rua 1º de Dezembro, 8B, Sacavém"
+    fundacao: "1992-05-08"
+    cae: "68200"
+    contacto: "geral@rendavo.pt"
+    ref: "PROP-0001"
+
+  - nipc: "508766370"
+    nome: "TEJOREI, S.A."
+    sede: "Travessa do Chafariz, Lote 4, Porta 2, Sacavém"
+    fundacao: "2008-12-12"
+    cae: "68200"
+    contacto: "210187584"
+    ref: "PROP-0002"
+
+  - nipc: "501663495"
+    nome: "Santos, Ferreira & Silva, S.A."
+    sede: "Avª Estado da Índia, Quinta da Vitória, Sacavém"
+    ref: "PROP-0003"
+
+dominios:
+  - dominio: "rendavo.pt"
+    titular: "Diginfor"
+    morada: "Rua Estado da Índia, 4, 3º A/B, Sacavém"
+    emails: "f1.pt@rede1024.com, adriano@f1.pt"
+
+  - dominio: "rendavo.com"
+    titular: "Privado (Domains By Proxy)"
+    registo: "2025-07-20"

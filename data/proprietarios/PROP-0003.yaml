@@ -1,0 +1,11 @@
+id: PROP-0003
+tipo: "empresa"
+nome: "Santos, Ferreira & Silva, S.A."
+nipc: "501663495"
+pessoa: "PESSOA-0001"
+
+parcelas:
+  - "P-0014"  # desc. 33/19970521, Malhada do Pizão, 6630 m²
+  - "P-0016"  # desc. 35/19970521, Bicarão, 4260 m²
+
+aquisicao: "Compra por Negociação Particular em Processo de Falência, AP. 1910 de 2009/09/10"

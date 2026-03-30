@@ -8,8 +8,10 @@ concelho: ""
 distrito: ""
 
 # Property identification
-artigo_matricial: ""        # Artigo matricial (Finanças)
-descricao_predial: ""       # Número de descrição (Conservatória)
+descricao_predial: ""       # Número de descrição (Conservatória) — permanente
+artigos_matriciais:         # Artigos matriciais (Finanças) — podem variar com reorganizações administrativas
+  - numero: ""
+    freguesia: ""           # Freguesia vigente na altura (ex: "Lapa dos Dinheiros", "São Romão", "União de Freguesias")
 seccao_cadastral: ""        # Secção do cadastro geométrico
 numero_cadastral: ""        # Número do prédio no cadastro
 

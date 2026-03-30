@@ -1,5 +1,26 @@
 # Bosque Knowledge — Instruções do Projeto
 
+## Contexto administrativo — Lapa dos Dinheiros
+
+A Lapa dos Dinheiros passou por várias reorganizações administrativas:
+
+1. Agregada a São Romão
+2. Freguesia autónoma (Lapa dos Dinheiros)
+3. União das Freguesias de Seia, São Romão e Lapa dos Dinheiros
+4. Novamente freguesia autónoma
+
+**Impacto nos registos:**
+- O **artigo matricial** (Finanças) muda com cada reorganização administrativa — um terreno pode ter vários artigos ao longo do tempo
+- A **descrição predial** (Conservatória do Registo Predial) mantém sempre o mesmo número, independentemente da organização administrativa
+
+**Regra:** para cada terreno, registar sempre:
+- A descrição predial (número permanente)
+- O(s) artigo(s) matricial(is) conhecidos (podem ser vários, de épocas diferentes)
+
+## Foco do projeto
+
+Apenas parcelas rústicas e mistas — soutos (castanheiros) próximos da coordenada 40.3829, -7.7029. Não incluir prédios urbanos.
+
 ## SNIC API — Cadastro Público
 
 Base URL: `https://snic.dgterritorio.gov.pt/geoportal/dgt_snic2/api/app/search`

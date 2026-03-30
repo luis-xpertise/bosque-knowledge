@@ -1,0 +1,12 @@
+id: PROP-0001
+tipo: "empresa"
+nome: "RENDAVO, S.A."
+nipc: "502814586"
+telefone: "210187584"
+email: "geral@rendavo.pt"
+pessoa: "PESSOA-0001"
+
+parcelas:
+  - "P-0013"  # desc. 32/19970521, Malhada do Pizão, 8702 m²
+
+aquisicao: "Compra, AP. 1497 de 2024/09/04"

@@ -1,0 +1,11 @@
+id: PROP-0002
+tipo: "empresa"
+nome: "TEJOREI, S.A."
+nipc: "508766370"
+telefone: "210187584"
+pessoa: "PESSOA-0001"
+
+parcelas:
+  - "P-0015"  # desc. 34/19970521, Fontanheira, 740 m²
+
+aquisicao: "Compra, AP. 1597 de 2024/09/04"
