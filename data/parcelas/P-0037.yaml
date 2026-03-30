@@ -1,0 +1,39 @@
+id: P-0037
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada de Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 2452
+area_ha: 0.2452
+
+artigos_matriciais:
+  - numero: 1573
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4850
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3444
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0011"  # Sra. Fernanda
+
+composicao: "Terra de souto de castanheiros bravos e pastagem"
+
+confrontacoes:
+  norte: "Antonio Oliveira Fernandes"
+  sul: "Manuel Figueiredo Branquinho"
+  nascente: "Antonio Oliveira Fernandes"
+  poente: "J. Pimenta, Lda"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 32.19
+valor_patrimonial_inicial: 28.23
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

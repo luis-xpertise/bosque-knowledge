@@ -1,0 +1,39 @@
+id: P-0044
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 146
+area_ha: 0.0146
+
+artigos_matriciais:
+  - numero: 1581
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4874
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3452
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0016"  # Pai do Marito
+
+composicao: "Terra de pastagem e um castanheiro"
+
+confrontacoes:
+  norte: "Armando Luis Miranda Simão"
+  sul: "Antonio Mendes Pinheiro"
+  nascente: "Mauricio Luis Pão Alvo"
+  poente: "Armando Luis Miranda Simão"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.27
+valor_patrimonial_inicial: 2.00
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

@@ -9,7 +9,16 @@ concelho: "Seia"
 area_total_m2: 740
 area_ha: 0.074
 
-artigo_matricial: 4865
+artigos_matriciais:
+  - numero: 1578
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4865
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    tipo: "R"
+  - numero: 3449
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
 
 proprietario_id: "PROP-0002"  # TEJOREI, S.A.
 

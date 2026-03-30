@@ -1,0 +1,39 @@
+id: P-0047
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 354
+area_ha: 0.0354
+
+artigos_matriciais:
+  - numero: 1584
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4883
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3456
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0018"  # Pai do João de Valezim (padeiro)
+
+composicao: "Terra de pastagem"
+
+confrontacoes:
+  norte: "Manuel Branquinho"
+  sul: "Maria Conceição Oliveira"
+  nascente: "Herdeiros de Luis Abrantes"
+  poente: "Manuel Figueiredo Branquinho"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 0.34
+valor_patrimonial_inicial: 0.20
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

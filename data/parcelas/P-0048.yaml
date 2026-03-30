@@ -1,0 +1,39 @@
+id: P-0048
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 600
+area_ha: 0.06
+
+artigos_matriciais:
+  - numero: 1585
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4886
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3457
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0019"  # Sra. Ester
+
+composicao: "Terra de pinhal, pastagem e castanheiros"
+
+confrontacoes:
+  norte: "Caminho público"
+  sul: "Caminho público"
+  nascente: "Joaquim Felicio"
+  poente: "Manuel Figueiredo"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 5.01
+valor_patrimonial_inicial: 4.29
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

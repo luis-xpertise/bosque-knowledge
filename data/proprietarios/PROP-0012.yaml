@@ -1,0 +1,12 @@
+id: PROP-0012
+tipo: "pessoa"
+nome: ""
+
+relacionados:
+  - nome: "Silvina"
+    relacao: "filha"
+  - nome: "Sra. Ermesinda"
+    relacao: "relacionada"
+
+parcelas:
+  - "P-0038"  # Malhada de Pizão, 230 m², artigo 1574

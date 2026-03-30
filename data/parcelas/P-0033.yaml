@@ -1,0 +1,40 @@
+id: P-0033
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada de Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 3244
+area_ha: 0.3244
+
+artigos_matriciais:
+  - numero: 1565
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4826
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3436
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: ""  # Titular desconhecido — "Família da Paúla"
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "Ribeira"
+  sul: "Jose Mendes Figueiredo"
+  nascente: "J. Pimenta, Lda"
+  poente: "Joaquim Nunes Neves"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 16.15
+ano_determinacao: 1989
+
+fonte: "caderneta predial"
+
+notas: "Família da Paúla"

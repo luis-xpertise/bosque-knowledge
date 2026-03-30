@@ -1,0 +1,39 @@
+id: P-0034
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada de Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 855
+area_ha: 0.0855
+
+artigos_matriciais:
+  - numero: 1567
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4832
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3438
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0009"  # Zé Marques
+
+composicao: "Terra de souto de castanheiros bravos, pastagem e um castanheiro"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Jose Lifonso Pinheiro"
+  nascente: "Antonio Gonçalves Pereira"
+  poente: "J. Pimenta, Lda"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 6.60
+valor_patrimonial_inicial: 5.69
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

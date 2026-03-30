@@ -1,0 +1,9 @@
+id: PROP-0006
+tipo: "pessoa"
+nome: "Maria de Jesus"
+estado: "falecida"
+
+parcelas:
+  - "P-0027"  # Fontanheira, 294 m², artigo 1554
+
+notas: "Falecida. Herdeiros na Rua do Rego n.º 16, Lapa dos Dinheiros."

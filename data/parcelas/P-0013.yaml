@@ -9,7 +9,16 @@ concelho: "Seia"
 area_total_m2: 8702
 area_ha: 0.8702
 
-artigo_matricial: 4829
+artigos_matriciais:
+  - numero: 1566
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4829
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    tipo: "R"
+  - numero: 3437
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
 
 proprietario_id: "PROP-0001"  # RENDAVO, S.A.
 

@@ -1,0 +1,12 @@
+id: PROP-0017
+tipo: "pessoa"
+nome: ""
+
+relacionados:
+  - nome: "Lucília de Vila Cova"
+    relacao: "filha"
+
+parcelas:
+  - "P-0045"  # Fontanheira, 60 m², artigo 1582
+
+notas: "Titular é o pai da Lucília de Vila Cova"

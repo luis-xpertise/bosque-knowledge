@@ -1,0 +1,39 @@
+id: P-0051
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 1046
+area_ha: 0.1046
+
+artigos_matriciais:
+  - numero: 1588
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4895
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3460
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0020"  # Pai da mulher do Varredor
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "Caminho público"
+  sul: "Caminho público"
+  nascente: "Maria do Patrocinio de Brito"
+  poente: "Jose Mendes Lages Rodrigues"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.62
+valor_patrimonial_inicial: 2.29
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

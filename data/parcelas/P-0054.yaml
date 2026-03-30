@@ -1,0 +1,39 @@
+id: P-0054
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicarão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 250
+area_ha: 0.025
+
+artigos_matriciais:
+  - numero: 1591
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4904
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3463
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0022"  # Lúcia do Sabugueiro
+
+composicao: "Terra de souto de castanheiros bravos"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Manuel Branquinho"
+  nascente: "J. Pimenta, Lda"
+  poente: "Maria Helena Oliveira"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.84
+valor_patrimonial_inicial: 2.49
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

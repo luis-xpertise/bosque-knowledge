@@ -9,7 +9,16 @@ concelho: "Seia"
 area_total_m2: 6630
 area_ha: 0.663
 
-artigo_matricial: 4847
+artigos_matriciais:
+  - numero: 1572
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4847
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    tipo: "R"
+  - numero: 3443
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
 
 proprietario_id: "PROP-0003"  # Santos, Ferreira & Silva, S.A.
 

@@ -1,0 +1,39 @@
+id: P-0046
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 170
+area_ha: 0.017
+
+artigos_matriciais:
+  - numero: 1583
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4880
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3454
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0007"  # Maria da Encarnação Cardoso (São do Super)
+
+composicao: "Terra de pastagem e um castanheiro"
+
+confrontacoes:
+  norte: "João Branquinho"
+  sul: "Caminho público"
+  nascente: "Mauricio Pão Alvo"
+  poente: "Joaquim Cardoso"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.27
+valor_patrimonial_inicial: 2.00
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

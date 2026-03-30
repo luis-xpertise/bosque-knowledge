@@ -1,0 +1,41 @@
+id: P-0039
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 450
+area_ha: 0.045
+
+artigos_matriciais:
+  - numero: 1575
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4856
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3446
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0013"  # Sra. Luiza
+
+composicao: "Terra de souto de castanheiros bravos e pastagem"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Abilio Lages"
+  nascente: "J. Pimenta, Lda"
+  poente: "J. Pimenta, Lda"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 3.87
+valor_patrimonial_inicial: 3.39
+ano_determinacao: 1989
+
+fonte: "caderneta predial"
+
+notas: "Terreno da declaração de venda. Cadeia de artigos confirmada: 3446 -> 4856 -> 1575"

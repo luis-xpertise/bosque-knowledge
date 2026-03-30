@@ -9,7 +9,16 @@ concelho: "Seia"
 area_total_m2: 406
 area_ha: 0.0406
 
-artigo_matricial: 4841
+artigos_matriciais:
+  - numero: 1570
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4841
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    tipo: "R"
+  - numero: 3441
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
 
 composicao: "Terra de pastagem e castanheiros"
 

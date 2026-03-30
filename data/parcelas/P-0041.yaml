@@ -1,0 +1,39 @@
+id: P-0041
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 207
+area_ha: 0.0207
+
+artigos_matriciais:
+  - numero: 1577
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4862
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3448
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: ""  # Titular desconhecido
+
+composicao: "Terra de pastagem"
+
+confrontacoes:
+  norte: "Abilio Lages"
+  sul: "J. Pimenta, Lda"
+  nascente: "Mario dos Santos Esteves"
+  poente: "Antonio Luis Oliveira"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 0.34
+valor_patrimonial_inicial: 0.20
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

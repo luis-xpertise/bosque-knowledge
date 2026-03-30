@@ -1,0 +1,39 @@
+id: P-0035
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada de Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 4963
+area_ha: 0.4963
+
+artigos_matriciais:
+  - numero: 1568
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4835
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3439
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0010"  # Manuel Branquinho (falecido)
+
+composicao: "Terra de pinhal, pastagem e castanheiros"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Jose Lifonso Pinheiro"
+  nascente: "J. Pimenta, Lda"
+  poente: "Antonio Fernandes Esteves"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 46.06
+valor_patrimonial_inicial: 40.40
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

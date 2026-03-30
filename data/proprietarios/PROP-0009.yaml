@@ -1,0 +1,6 @@
+id: PROP-0009
+tipo: "pessoa"
+nome: "Zé Marques"
+
+parcelas:
+  - "P-0034"  # Malhada de Pizão, 855 m², artigo 1567

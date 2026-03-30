@@ -1,0 +1,39 @@
+id: P-0036
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada do Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 803
+area_ha: 0.0803
+
+artigos_matriciais:
+  - numero: 1569
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4838
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3440
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: ""  # Titular desconhecido
+
+composicao: "Terra de souto de castanheiro"
+
+confrontacoes:
+  norte: "Manuel Figueiredo Branquinho"
+  sul: "Antonio Garcia Oliveira"
+  nascente: "Manuel Figueiredo Branquinho"
+  poente: "Manuel Figueiredo Branquinho"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 9.10
+valor_patrimonial_inicial: 7.98
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

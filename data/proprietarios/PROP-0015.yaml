@@ -1,0 +1,7 @@
+id: PROP-0015
+tipo: "pessoa"
+nome: "Maria da Conceição"
+conhecida_como: "Brasileira"
+
+parcelas:
+  - "P-0042"  # Fontanheira, 760 m², artigo 1579

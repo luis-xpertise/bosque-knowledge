@@ -1,0 +1,9 @@
+id: PROP-0010
+tipo: "pessoa"
+nome: "Manuel Branquinho"
+estado: "falecido"
+
+parcelas:
+  - "P-0035"  # Malhada de Pizão, 4963 m², artigo 1568
+
+notas: "Aparece como confrontante sul do P-0013 (RENDAVO)"

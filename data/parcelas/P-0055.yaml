@@ -1,0 +1,39 @@
+id: P-0055
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicarão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 464
+area_ha: 0.0464
+
+artigos_matriciais:
+  - numero: 1592
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4907
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3464
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0023"  # Zé Luís do Carvalhar
+
+composicao: "Terra de pastagem e um castanheiro"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Antonio Sá Pinto"
+  nascente: "Felicidade Rodrigues de Brito"
+  poente: "J. Pimenta, Lda"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.39
+valor_patrimonial_inicial: 2.09
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

@@ -1,0 +1,39 @@
+id: P-0038
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada de Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 230
+area_ha: 0.023
+
+artigos_matriciais:
+  - numero: 1574
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4853
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3445
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0012"  # Pai da Silvina e Sra. Ermesinda
+
+composicao: "Terra de pastagem"
+
+confrontacoes:
+  norte: "Ribeira"
+  sul: "Herdeiros de Antonio Fernandes Camelo"
+  nascente: "Herdeiros de Antonio Fernandes Camelo"
+  poente: "Felicidade Rodrigues de Brito"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 0.23
+valor_patrimonial_inicial: 0.10
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

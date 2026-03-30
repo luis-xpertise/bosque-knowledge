@@ -1,0 +1,12 @@
+id: PROP-0016
+tipo: "pessoa"
+nome: ""
+
+relacionados:
+  - nome: "Marito"
+    relacao: "filho"
+
+parcelas:
+  - "P-0044"  # Fontanheira, 146 m², artigo 1581
+
+notas: "Titular é o pai do Marito"

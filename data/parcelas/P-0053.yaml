@@ -1,0 +1,39 @@
+id: P-0053
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicarão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 1112
+area_ha: 0.1112
+
+artigos_matriciais:
+  - numero: 1590
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4901
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3462
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0021"  # Pai do Patrick (falecido em França)
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Joaquim Marques Felicio"
+  nascente: "Antonio Sá Pinto"
+  poente: "Jose Lifonso Pinheiro"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 6.94
+valor_patrimonial_inicial: 6.09
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

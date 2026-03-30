@@ -1,0 +1,13 @@
+id: PROP-0021
+tipo: "pessoa"
+nome: ""
+estado: "falecido"
+
+relacionados:
+  - nome: "Patrick"
+    relacao: "filho"
+
+parcelas:
+  - "P-0053"  # Bicarão, 1112 m², artigo 1590
+
+notas: "Falecido em França. Negociar com herdeiros."

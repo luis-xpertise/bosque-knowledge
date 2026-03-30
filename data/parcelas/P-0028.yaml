@@ -1,0 +1,39 @@
+id: P-0028
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 842
+area_ha: 0.0842
+
+artigos_matriciais:
+  - numero: 1555
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4796
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3426
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0007"  # Maria da Encarnação Cardoso / Henrique Borges de Miranda
+
+composicao: "Terra de souto de castanheiros bravos e pastagem"
+
+confrontacoes:
+  norte: "Antonio Mendes Pinheiro"
+  sul: "Jose Marques Garcia"
+  nascente: "Jose Rodrigues Matias Pinheiro"
+  poente: "Joaquim Nunes Neves"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.84
+valor_patrimonial_inicial: 2.49
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

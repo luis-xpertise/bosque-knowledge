@@ -1,0 +1,6 @@
+id: PROP-0005
+tipo: "pessoa"
+nome: "José Marques Garcia"
+
+parcelas:
+  - "P-0026"  # Fontanheira, 924 m², artigo 1550

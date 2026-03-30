@@ -1,0 +1,39 @@
+id: P-0042
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 760
+area_ha: 0.076
+
+artigos_matriciais:
+  - numero: 1579
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4868
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3450
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0015"  # Maria da Conceição (Brasileira)
+
+composicao: "Terra de pastagem e um castanheiro"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Joaquim Cardoso"
+  nascente: "Carlos Mendes de Jesus"
+  poente: "Carlos Mendes de Jesus"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.73
+valor_patrimonial_inicial: 2.39
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

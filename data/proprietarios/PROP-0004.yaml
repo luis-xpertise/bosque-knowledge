@@ -1,0 +1,10 @@
+id: PROP-0004
+tipo: "pessoa"
+nome: "Carlos Moura"
+estado: "falecido"
+
+parcelas:
+  - "P-0025"  # Lomba, 900 m², artigo 1540
+  - "P-0043"  # Fontanheira, 1100 m², artigo 1580
+
+notas: "Falecido. Negociar com herdeiros."

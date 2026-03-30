@@ -1,0 +1,12 @@
+id: PROP-0020
+tipo: "pessoa"
+nome: ""
+
+relacionados:
+  - nome: "Varredor"
+    relacao: "genro"
+
+parcelas:
+  - "P-0051"  # Fontanheira, 1046 m², artigo 1588
+
+notas: "Titular é o pai da mulher do Varredor"

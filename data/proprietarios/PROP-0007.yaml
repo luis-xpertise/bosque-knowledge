@@ -1,0 +1,13 @@
+id: PROP-0007
+tipo: "pessoa"
+nome: "Maria da Encarnação Cardoso"
+conhecida_como: "São do Super"
+
+relacionados:
+  - nome: "Henrique Borges de Miranda"
+    estado: "falecido"
+    relacao: "Corresponde ao titular original"
+
+parcelas:
+  - "P-0028"  # Fontanheira, 842 m², artigo 1555
+  - "P-0046"  # Fontanheira, 170 m², artigo 1583

@@ -1,0 +1,7 @@
+id: PROP-0019
+tipo: "pessoa"
+nome: "Sra. Ester"
+
+parcelas:
+  - "P-0048"  # Fontanheira, 600 m², artigo 1585
+  - "P-0049"  # Fontanheira, 408 m², artigo 1586

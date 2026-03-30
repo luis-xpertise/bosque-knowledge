@@ -1,0 +1,39 @@
+id: P-0043
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 1100
+area_ha: 0.11
+
+artigos_matriciais:
+  - numero: 1580
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4871
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3451
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0004"  # Sr. Carlos Moura (falecido)
+
+composicao: "Terra de pastagem e castanheiro"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "João Branquinho"
+  nascente: "Manuel Figueiredo Branquinho"
+  poente: "Armando Luis Miranda Simão"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 11.49
+valor_patrimonial_inicial: 9.98
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

@@ -1,0 +1,39 @@
+id: P-0030
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 360
+area_ha: 0.036
+
+artigos_matriciais:
+  - numero: 1561
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4814
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3432
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: ""  # Titular desconhecido
+
+composicao: "Terra de souto de castanheiros bravos"
+
+confrontacoes:
+  norte: "Joaquim Nogueira Fernandes"
+  sul: "Antonio Oliveira Fernandes"
+  nascente: "Herdeiros de Antonio Fernandes Camelo"
+  poente: "Antonio Oliveira Fernandes"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 10.24
+valor_patrimonial_inicial: 8.98
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

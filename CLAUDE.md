@@ -17,6 +17,18 @@ A Lapa dos Dinheiros passou por várias reorganizações administrativas:
 - A descrição predial (número permanente)
 - O(s) artigo(s) matricial(is) conhecidos (podem ser vários, de épocas diferentes)
 
+### Titularidade vs. propriedade real
+
+Na maioria dos casos, o titular registado nas Finanças **não é o proprietário real** — as pessoas não fizeram partilhas. Distinguir sempre:
+
+- **Titular nas Finanças** — nome que consta na caderneta predial (frequentemente falecido)
+- **Proprietário real** — pessoa viva a quem pertence o terreno após partilhas informais ou por herança
+
+Nas fichas de proprietários, registar ambos quando conhecidos:
+- `nome` — titular nas Finanças
+- `estado` — "falecido" quando aplicável
+- `relacionados` — proprietário real / herdeiros conhecidos
+
 ### Cadeia de artigos matriciais
 
 Existem 3 gerações de artigos matriciais:

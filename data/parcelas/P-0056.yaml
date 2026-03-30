@@ -1,0 +1,39 @@
+id: P-0056
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicarão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 600
+area_ha: 0.06
+
+artigos_matriciais:
+  - numero: 1593
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4910
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3465
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0024"  # Tó Manuel Sá Pinto
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "João Oliveira"
+  sul: "Jose Oliveira Pão Alvo"
+  nascente: "Felicidade Rodrigues de Brito"
+  poente: "J. Pimenta, Lda"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 4.55
+valor_patrimonial_inicial: 3.99
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

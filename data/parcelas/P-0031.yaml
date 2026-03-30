@@ -1,0 +1,39 @@
+id: P-0031
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Malhada de Pizão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 297
+area_ha: 0.0297
+
+artigos_matriciais:
+  - numero: 1562
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4817
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3433
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: ""  # Titular desconhecido
+
+composicao: "Terra de souto de castanheiros bravos"
+
+confrontacoes:
+  norte: "Obelia Esteves Lages"
+  sul: "Caminho público"
+  nascente: "Armando Nunes de Brito"
+  poente: "Antonio Oliveira Fernandes"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 8.53
+valor_patrimonial_inicial: 7.48
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

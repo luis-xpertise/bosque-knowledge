@@ -1,0 +1,39 @@
+id: P-0027
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 294
+area_ha: 0.0294
+
+artigos_matriciais:
+  - numero: 1554
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4793
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3425
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0006"  # Maria de Jesus (falecida)
+
+composicao: "Terra de souto de castanheiros bravos e pastagem"
+
+confrontacoes:
+  norte: "Antonio Mendes Pinheiro"
+  sul: "Antonio Marques Garcia Pires de Jesus"
+  nascente: "Armando Luis Miranda Simão"
+  poente: "Henrique Borges de Miranda"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.96
+valor_patrimonial_inicial: 2.59
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

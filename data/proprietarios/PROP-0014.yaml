@@ -1,0 +1,13 @@
+id: PROP-0014
+tipo: "pessoa"
+nome: ""
+
+relacionados:
+  - nome: "Zé Lages"
+    relacao: "filho"
+
+parcelas:
+  - "P-0040"  # Fontanheira, 97 m², artigo 1576
+  - "P-0052"  # Fontanheira, 400 m², artigo 1589
+
+notas: "Titular é a mãe do Zé Lages"

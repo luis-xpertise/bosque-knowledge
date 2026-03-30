@@ -1,0 +1,39 @@
+id: P-0025
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Lomba"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 900
+area_ha: 0.09
+
+artigos_matriciais:
+  - numero: 1540
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4751
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3411
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0004"  # Sr. Carlos Moura (falecido)
+
+composicao: "Terra de pinhal"
+
+confrontacoes:
+  norte: "Maria Martins Amaral"
+  sul: "Antonino Mendes Lages de Brito"
+  nascente: "Antonino Mendes Lages de Brito"
+  poente: "Jose de Oliveira Pão Alvo"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 5.58
+valor_patrimonial_inicial: 4.89
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

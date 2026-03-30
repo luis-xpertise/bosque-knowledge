@@ -1,0 +1,39 @@
+id: P-0057
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Bicarão"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 570
+area_ha: 0.057
+
+artigos_matriciais:
+  - numero: 1600
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4931
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3472
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+proprietario_id: "PROP-0025"  # Odete do Zé Luís
+
+composicao: "Terra de pinhal e pastagem"
+
+confrontacoes:
+  norte: "J. Pimenta, Lda"
+  sul: "Caminho público"
+  nascente: "Jose Rodrigues Matias Pinheiro"
+  poente: "Antonio Oliveira Fernandes"
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 2.16
+valor_patrimonial_inicial: 1.80
+ano_determinacao: 1989
+
+fonte: "caderneta predial"

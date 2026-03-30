@@ -1,0 +1,11 @@
+id: PROP-0008
+tipo: "pessoa"
+nome: "Mário dos Santos Esteves"
+estado: "falecido"
+
+relacionados:
+  - nome: "José Salvador"
+    relacao: "Provável proprietário actual"
+
+parcelas:
+  - "P-0029"  # Fontanheira, 1496 m², artigo 1560

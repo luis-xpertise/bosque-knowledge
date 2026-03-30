@@ -1,0 +1,9 @@
+id: PROP-0023
+tipo: "pessoa"
+nome: "Zé Luís"
+conhecida_como: "Zé Luís do Carvalhar"
+
+parcelas:
+  - "P-0055"  # Bicarão, 464 m², artigo 1592
+
+notas: "Comprou à cunhada Lúcia"

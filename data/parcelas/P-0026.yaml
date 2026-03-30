@@ -1,0 +1,41 @@
+id: P-0026
+descricao_predial: ""
+natureza: "Rústica"
+denominacao: ""
+situado: "Fontanheira"
+freguesia: "Lapa dos Dinheiros"
+concelho: "Seia"
+
+area_total_m2: 924
+area_ha: 0.0924
+
+artigos_matriciais:
+  - numero: 1550
+    freguesia: "Lapa dos Dinheiros (restaurada)"
+    tipo: "R"
+  - numero: 4781
+    freguesia: "União das Freguesias de Seia, São Romão e Lapa dos Dinheiros"
+    dicofre: "091233"
+    tipo: "R"
+  - numero: 3421
+    freguesia: "Lapa dos Dinheiros (extinta)"
+    tipo: "R"
+
+composicao: "Terra de pastagem e castanheiros"
+
+confrontacoes:
+  norte: "Henrique Borges Miranda Lages"
+  sul: "Jose da Silva Bravo Junior"
+  nascente: "Antonio Gonçalves de Jesus"
+  poente: "Abilio Lages"
+
+proprietario_id: "PROP-0005"  # José Marques Garcia
+
+ano_inscricao_matriz: 1982
+valor_patrimonial_actual: 11.26
+valor_patrimonial_inicial: 9.78
+ano_determinacao: 1989
+
+fonte: "caderneta predial"
+
+notas: "Possivelmente o terreno onde está o campo"

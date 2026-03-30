@@ -1,0 +1,14 @@
+id: PROP-0018
+tipo: "pessoa"
+nome: ""
+
+relacionados:
+  - nome: "João de Valezim"
+    relacao: "filho"
+    notas: "era padeiro"
+
+parcelas:
+  - "P-0047"  # Fontanheira, 354 m², artigo 1584
+  - "P-0050"  # Fontanheira, 666 m², artigo 1587
+
+notas: "Titular é o pai do João de Valezim que era padeiro"
